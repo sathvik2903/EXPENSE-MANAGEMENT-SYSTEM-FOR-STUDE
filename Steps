@@ -1,0 +1,6 @@
+Expense-Tracker-Student/
+│
+├── expense_tracker.py        ← your corrected main Python file
+├── requirements.txt          ← list of required libraries
+├── expenses.json             ← optional, sample data file (can be empty)
+└── README.md                 ← explanation of your project
